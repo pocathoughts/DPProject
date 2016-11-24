@@ -3,6 +3,13 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 public class Main {
+    
+    /*
+        We want to express the program below using visual components. The class Budget and category
+        are defined by the client (another programmer who is using our framework) and they want to make a 
+        VPE so that another person (who doesn't know anything about programming) could write the same program
+        below but with visual drag and drop components.
+    */
 
     public static void main(String[] args) {
         //Make new spending categories
