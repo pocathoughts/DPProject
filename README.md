@@ -21,3 +21,6 @@ the use of our framework.
 # Main Deliverables:
 - Requirements
 ....
+
+# Google Doc/Report
+https://docs.google.com/document/d/1KKRJT-_kZRnpBvoaT_RfStAPLmbfYrDbeRP0_jSirmU/edit
