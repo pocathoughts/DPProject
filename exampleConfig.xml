@@ -1,0 +1,31 @@
+<codeBase>
+  <object>
+    <objectName>ConditionalNode</objectName>
+    <fields>
+      <field>
+        <fieldName> condition </fieldName>
+        <returnVal>OperatorNode</returnVal>
+      </field>
+    </fields>
+    <methods>
+      <method>
+        <methodName>accept</methodName>
+        <parameter>visitor</parameter>
+        <returnValMethod>void</returnValMethod>
+        <body>Developer Specified</body>
+      </method>
+      <method>
+        <methodName>onElse</methodName>
+        <parameter>none</parameter>
+        <returnValMethod>void</returnValMethod>
+        <body>Developer Specified</body>
+      </method>
+      <method>
+        <methodName>onIf</methodName>
+        <parameter>none</parameter>
+        <returnValMethod>void</returnValMethod>
+        <body>Developer Specified</body>
+      </method>
+    </methods>
+  </object>
+</codeBase>
